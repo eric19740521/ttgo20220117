@@ -28,3 +28,6 @@ C:\Users\user\Documents\Arduino\libraries\TFT_eSPI
 
 程式碼
 https://github.com/eric19740521/ttgo20220117
+
+看這個檔案喔
+ttgo-2.ino
